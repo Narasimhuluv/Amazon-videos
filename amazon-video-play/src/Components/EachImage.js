@@ -7,5 +7,4 @@ function Items(props) {
         </div>
     )
 }
-
 export default Items
