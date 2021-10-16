@@ -37,12 +37,12 @@ import { NavLink } from 'react-router-dom';
             return (
                 <section className="-mt-20">
                     <div className="scrollContainer p-12">
-                    {/* <h2 className="text-2xl mx-2 text-white">Discover </h2> */}
-                        {
+                    <h2 className="text-2xl mx-2 text-white">Discover </h2>
+                        {/* {
                             WeekTrending.map((each) => (
                                 <EachArticle each={each}/>
                             ))
-                        }
+                        } */}
                     </div>
                 </section>
             )
